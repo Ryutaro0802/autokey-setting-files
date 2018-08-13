@@ -1,5 +1,5 @@
 #
-#start firefox or switch to firefox
+#RUN Chrome
 import subprocess
 command = 'wmctrl -l'
 output = system.exec_command(command, getOutput=True)
