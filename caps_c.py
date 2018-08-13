@@ -1,2 +1,2 @@
 # Enter script code
-keyboard.send_key("<ctrl>+c")
+keyboard.send_keys("<ctrl>+c")

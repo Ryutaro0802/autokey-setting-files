@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "caps_s",
+    "description": "caps_tab",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 37,
+    "usageCount": 16,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<super>"
         ],
-        "hotKey": "s"
+        "hotKey": "<tab>"
     },
     "filter": {
         "regex": null,
